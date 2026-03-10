@@ -1,6 +1,10 @@
 # Fábio Marques
 
 [![Website](https://img.shields.io/website?url=http://www.fmarques.eti.br)](http://www.fmarques.eti.br) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5)](https://www.linkedin.com/in/fmrqs) [![Discord](https://img.shields.io/badge/Discord-7289DA)](https://discord.com/users/userid/fmarques)
+[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000)](https://www.youtube.com/@FMarquesETI)
+[![Medium](https://img.shields.io/badge/-Medium-%23000000)](https://medium.com/@fmarques_eti) 
+[![Credly](https://img.shields.io/badge/-Credly-%23FF6B00)](https://www.credly.com/users/fmrqs) 
+[![Microsoft Learn](https://img.shields.io/badge/-Microsoft%20Learn-%230078D4)](https://learn.microsoft.com/pt-br/users/fmrqs/)
 
 ---
 🇧🇷 *Procurando a versão em português deste perfil? [Clique aqui](https://github.com/fmarqueseti/fmarqueseti/blob/main/README_BR.md).*
@@ -8,17 +12,17 @@
 
 ## About Me
 
-I am a seasoned professional with extensive experience in developing software solutions across desktop, web, and mobile platforms, as well as projects involving mainframe environments. With a strong academic background in Information Technology and multiple specializations, I operate with fluency in both technical development and technical education and training.
+Technology professional with 30 years of experience in developing software solutions for *desktop*, *web*, *mobile*, and enterprise applications. Throughout my career, I have worked in diverse environments, including software development companies, educational institutions, and research projects. My work encompasses requirements analysis, *software* architecture, systems development, and application modernization, consistently focusing on delivering robust solutions aligned with business needs.
 
-My main differentiators are technological versatility and methodological adaptability, combined with the ability to contribute in multiple roles—whether as a backend developer, software architect, or instructor. My career spans impactful contributions in both corporate and academic settings, with a focus on Delphi, COBOL, PHP, and integrations with various relational database systems.
+In parallel with my professional activities, I am also engaged in teaching, contributing to the education and development of future computing professionals.
 
-I am currently the founder of [Main Focus](http://mainfocus.com.br), a company specialized in custom software solutions, contributing to the modernization and continuous improvement of enterprise platforms.
+I am the founder of [Main Focus](http://mainfocus.com.br), a company specialized in customized *software* solutions, supporting the modernization and evolution of enterprise platforms.
 
 ---
 
 ## Technical Skills
 
-- **Languages:** Delphi (Object Pascal), PHP, COBOL, Java, Python, C/C++, Clipper  
+- **Languages:** Delphi (Object Pascal), PHP, COBOL, HLASM, NASM, Javascript, Java, Python, C/C++ and Clipper
 - **Databases:** Firebird, PostgreSQL, Oracle, MS SQL Server, IBM DB2, MySQL  
 - **Platforms:** Windows, Linux, z/OS, Android  
 - **Version Control and CI/CD:** Git, Bitbucket, Jenkins  
@@ -31,12 +35,15 @@ I am currently the founder of [Main Focus](http://mainfocus.com.br), a company s
 
 ## Areas of Interest
 
-- Commercial software development  
+- Commercial software solution development  
+- Software engineering and architecture  
+- Enterprise computing and mainframes  
+- Databases and cloud computing  
+- Artificial intelligence  
 - Legacy application modernization  
-- Software engineering and quality assurance  
 - Geographic Information Systems (GIS)  
-- Distance learning and technical training  
-- Open Source & Free/Libre Software  
+- Distance Education (E-Learning) and technology training  
+- Open Source & Free and Open-Source Software
 
 ---
 
@@ -67,6 +74,7 @@ Throughout my career, I have participated in the development of dozens of propri
 
 - ✉️ fmarques@fmarques.eti.br  
 - 🌐 [www.fmarques.eti.br](http://www.fmarques.eti.br)
+- 📍 Belém, Pará, Brazil
 
 ---
 
@@ -74,8 +82,4 @@ Throughout my career, I have participated in the development of dozens of propri
 
 ---
 
-![fmarqueseti's Stats](https://github-readme-stats.vercel.app/api?username=fmarqueseti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![fmarqueseti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fmarqueseti&theme=vue-dark&hide_border=true)
-
-![fmarqueseti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmarqueseti&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=fmarqueseti&theme=transparent&hide_border=true)

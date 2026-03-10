@@ -1,23 +1,29 @@
 # Fábio Marques
 
 [![Website](https://img.shields.io/website?url=http://www.fmarques.eti.br)](http://www.fmarques.eti.br) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5)](https://www.linkedin.com/in/fmrqs) [![Discord](https://img.shields.io/badge/Discord-7289DA)](https://discord.com/users/userid/fmarques)
+[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000)](https://www.youtube.com/@FMarquesETI)
+[![Medium](https://img.shields.io/badge/-Medium-%23000000)](https://medium.com/@fmarques_eti) 
+[![Credly](https://img.shields.io/badge/-Credly-%23FF6B00)](https://www.credly.com/users/fmrqs) 
+[![Microsoft Learn](https://img.shields.io/badge/-Microsoft%20Learn-%230078D4)](https://learn.microsoft.com/pt-br/users/fmrqs/)
+
 ---
 🇺🇸 *Looking for the English version of this profile? [Click here](https://github.com/fmarqueseti).*
 ---
 
 ## Sobre mim
 
-Sou um profissional com ampla experiência no desenvolvimento de soluções em software, com atuação comprovada em aplicações *desktop*, *web* e móveis, além de projetos voltados a ambientes de mainframe. Com sólida formação acadêmica em Tecnologia da Informação e diversas especializações, atuo tanto no desenvolvimento técnico quanto na formação e capacitação de profissionais da área.
+Profissional de tecnologia com 30 anos de experiência no desenvolvimento de soluções de software para aplicações *desktop*, *web*, *mobile* e sistemas corporativos. Ao longo da trajetória atuei em diferentes contextos, incluindo empresas de desenvolvimento de software, instituições de ensino e projetos de pesquisa. Minha atuação envolve análise de requisitos, arquitetura de *software*, desenvolvimento de sistemas e modernização de aplicações, sempre buscando soluções robustas e alinhadas às necessidades do negócio.
 
-Tenho como diferencial a versatilidade tecnológica e metodológica, associada à capacidade de atuar em diferentes frentes — seja como desenvolvedor *backend*, arquiteto de *software* ou educador. Minha carreira contempla contribuições significativas em ambientes corporativos e acadêmicos, com destaque para projetos em plataformas Delphi, COBOL, PHP, e integrações com bancos de dados relacionais diversos.
+Paralelamente à atividade profissional, também desenvolvo atividades na área de ensino, contribuindo para a formação de novos profissionais da computação.
 
-Atualmente, sou fundador da [Main Focus](http://mainfocus.com.br), empresa especializada em soluções personalizadas de *software*, contribuindo para a modernização e evolução de plataformas empresariais.
+Sou fundador da [Main Focus](http://mainfocus.com.br), empresa especializada em soluções personalizadas de *software*, contribuindo para a modernização e evolução de plataformas empresariais.
+
 
 ---
 
 ## Competências Técnicas
 
-- **Linguagens:** Delphi (Object Pascal), PHP, COBOL, Java, Python, C/C++, Clipper
+- **Linguagens:** Delphi (Object Pascal), PHP, COBOL, HLASM, NASM, Javascript, Java, Python, C/C++ e Clipper
 - **Banco de Dados:** Firebird, PostgreSQL, Oracle, MS SQL Server, IBM DB2, MySQL
 - **Plataformas:** Windows, Linux, z/OS, Android
 - **Controle de Versão e CI/CD:** Git, Bitbucket, Jenkins
@@ -31,8 +37,11 @@ Atualmente, sou fundador da [Main Focus](http://mainfocus.com.br), empresa espec
 ## Áreas de Interesse
 
 - Desenvolvimento de soluções comerciais
+- Engenharia e arquitetura de *software*
+- Computação corporativa e mainframes
+- Banco de dados e computação em nuvem
+- Inteligência artificial
 - Modernização de aplicações legadas
-- Engenharia e qualidade de *software*
 - Sistemas de Informação Geográfica (SIG)
 - Educação a Distância (EaD) e capacitação tecnológica
 - *Open Source* & *Software* Livre e Aberto
@@ -51,28 +60,16 @@ Ao longo da minha trajetória, participei do desenvolvimento de dezenas de solu�
 
 ---
 
-## Cursos Relevantes
-
-- IBM z/OS Mainframe
-- Micro Focus COBOL Fundamentals
-- IBM watsonx.ai Technical Essentials
-- Microsoft Azure AI & Security Fundamentals
-- Clean Code, Design Patterns, Arquitetura de *Software* e Modelagem
-- Cursos extensivos em JCL, Assembler para Mainframes e Modernização COBOL
-
----
-
 ## Contato
 
 - ✉️ fmarques@fmarques.eti.br  
 - 🌐 [www.fmarques.eti.br](http://www.fmarques.eti.br)
+- 📍 Belém, Pará, Brasil
 
 ---
 
 > Este perfil é utilizado como portfólio profissional. Os repositórios públicos aqui presentes representam minha trajetória, meus estudos contínuos e minha contribuição para o ecossistema tecnológico.
 
-![fmarqueseti's Stats](https://github-readme-stats.vercel.app/api?username=fmarqueseti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+---
 
-![fmarqueseti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fmarqueseti&theme=vue-dark&hide_border=true)
-
-![fmarqueseti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmarqueseti&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=fmarqueseti&theme=transparent&hide_border=true)
