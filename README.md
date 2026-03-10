@@ -59,17 +59,6 @@ Throughout my career, I have participated in the development of dozens of propri
 
 ---
 
-## Notable Courses and Training
-
-- IBM z/OS Mainframe  
-- Micro Focus COBOL Fundamentals  
-- IBM watsonx.ai Technical Essentials  
-- Microsoft Azure AI & Security Fundamentals  
-- Clean Code, Design Patterns, Software Architecture & Modeling  
-- Extensive training in JCL, Mainframe Assembler, and COBOL modernization  
-
----
-
 ## Contact
 
 - ✉️ fmarques@fmarques.eti.br  
